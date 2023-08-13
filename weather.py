@@ -27,7 +27,7 @@ async def city(message: types.Message):
 
 
 def get_weather(city):
-    token2 = "YOUR WEATHER TOKEN "  # токен погоды
+    token2 = "9a9e959741f380a7acddf10b84428114"  # токен погоды
     # base URL
     BASE_URL = "https://api.openweathermap.org/data/2.5/weather?"
     Weather_url = "http://openweathermap.org/img/wn/"
